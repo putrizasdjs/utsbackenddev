@@ -1,0 +1,10 @@
+{
+    "indonesia" : [
+    {"icon":"home-outline","text":"home"},
+    {"icon":"home-outline","text":"blogs"}
+    ],
+    "english" : [
+        {"icon":"home-outline","text":"home"},
+        {"icon":"home-outline","text":"blogs"}
+        ]
+}
